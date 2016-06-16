@@ -1,0 +1,2 @@
+[1.0.7] - juni 2016
+- Feilrettinger og ytelsesforbedringer

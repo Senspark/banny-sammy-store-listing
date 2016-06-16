@@ -1,0 +1,2 @@
+[1.0.7] - juny l'any 2016
+- Correcció d'errors i millores de rendiment

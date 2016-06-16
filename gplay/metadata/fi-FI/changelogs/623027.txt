@@ -1,0 +1,2 @@
+[1.0.7] - kesäkuu 2016
+- Virheenkorjauksia ja suorituskyvyn parannuksia

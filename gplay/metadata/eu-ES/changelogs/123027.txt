@@ -1,0 +1,2 @@
+[1.0.7] - 2016ko ekainaren
+- Arazo konponketak eta performance hobekuntzak

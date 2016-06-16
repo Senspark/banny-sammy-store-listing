@@ -1,0 +1,2 @@
+[1.0.7] - Juni 2016
+- Bug-Fixes und Performance-Verbesserungen

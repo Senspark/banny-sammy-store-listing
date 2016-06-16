@@ -1,0 +1,2 @@
+[1.0.7] - június 2016
+- Bug javítások és teljesítménybeli fejlesztések

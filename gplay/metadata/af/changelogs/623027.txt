@@ -1,0 +1,2 @@
+[1.0.7] - Junie 2016
+- Foutoplossings en prestasie

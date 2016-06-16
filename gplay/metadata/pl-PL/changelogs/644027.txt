@@ -1,0 +1,2 @@
+[1.0.7] - czerwiec 2016
+- Poprawki i ulepszenia wydajności

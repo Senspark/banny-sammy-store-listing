@@ -1,0 +1,2 @@
+[1.0.7] - xuño 2016
+- Correccións de erros e melloras de rendemento

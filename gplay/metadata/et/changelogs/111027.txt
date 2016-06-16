@@ -1,0 +1,2 @@
+[1.0.7] - juuni 2016
+- Vika ja toimivustäiustust

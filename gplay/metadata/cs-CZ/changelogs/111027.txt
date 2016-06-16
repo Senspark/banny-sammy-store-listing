@@ -1,0 +1,2 @@
+[1.0.7] - červen 2016
+- Opravy chyb a vylepšení výkonu

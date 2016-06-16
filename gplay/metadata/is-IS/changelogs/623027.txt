@@ -1,0 +1,2 @@
+[1.0.7] - júní 2016
+- Villuleiðréttingar og aukin afköst

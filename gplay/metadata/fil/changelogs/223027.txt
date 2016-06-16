@@ -1,0 +1,2 @@
+[1.0.7] - June 2016
+- Pag-aayos ng bug at pagpapahusay sa pagganap

@@ -1,0 +1,2 @@
+[1.0.7] - Tháng 6 năm 2016
+- Sửa lỗi và cải tiến hiệu suất

@@ -1,0 +1,2 @@
+[1.0.7] - junij 2016
+- Popravki napak in izboljšave učinkovitosti delovanja
